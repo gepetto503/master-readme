@@ -2,7 +2,8 @@
 
 ### _I'm a code school student studying front end technologies.  This is a master readme describing and linking to my most noteworthy projects. Further info about each project is on it's respective readme._
 
-## Epicodus Records
+## [Epicodus Records](https://github.com/gepetto503/epicodus-records)
+
 
 #### _My code school cohort has produced a number of inside jokes that would make great band names.  I built a site for a fictional record label that manages those bands._
 
