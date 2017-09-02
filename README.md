@@ -16,8 +16,7 @@
 ## Tangerine
 ### UI design for a fictional clothing company
 
-![alt text](https://github.com/gepetto503/master-readme/master/images/desktop_menu_open.png)
-
+![alt text](https://github.com/gepetto503/master-readme/tree/master/images/desktop_menu_open.png)
 
 
 **_contact Brendan Hanna at gepetto503@gmail.com_**
