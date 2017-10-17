@@ -1,21 +1,28 @@
-# _Brendan Hanna's Best Projects_
+# _Brendan Hanna's UI/UX Projects_
 
-### _I'm a code school student studying UI/UX design and front end technologies.  This is a master readme describing and linking to my most noteworthy projects. Further info about each project is on it's respective readme._
-
-## [Epicodus Records](https://github.com/gepetto503/epicodus-records)
-
-
-#### _My code school cohort has produced a number of inside jokes that would make great band names.  I built a site for a fictional record label that manages those bands._
-
-* _Built in Angular 4/Angular CLI_
-* _Uses Firebase to store data_
-* _Different routes for a regular user and an admin._
-* _User can view gallery of bands and a detail page for each one._
-* _Admin can edit, update and delete database entries._
+### _Here is a glimpse into some of the work I've done in interface and experience design._
 
 ## Tangerine
-### UI design for a fictional clothing company
+### UI design for a fictional clothing company using Sketch
+
+Drawing inspiration from existing online retailers, I created a clean, minimal and untuitive interface I would want to use as an online shopper.
 
 <img src="images/desktop_menu_open.png" alt="desktop size view of design">
+
+## Invision Prototypes
+### Interactive prototypes you can click through, made using Sketch with Invision's Craft plugin.
+
+#### Non Profit Donation Manager
+##### Mobile layout of a web app for managing recurring donations to non profits.  Users can search non profits organizations, add NPOs they're interested in or donating to to their personal list where they can manage donations, and interact with NPOs and other users through a social media micro-platform.
+
+view invision prototype: https://invis.io/WUD1W108C
+
+#### MemeSpace
+##### 2-day design sprint with another Epicodus student.  A social media network where literally the only way to communicate is with memes.
+
+Based on user input from fellow Epicodus students that craved a social media platform without any of that pesky human interaction to get in the way of cat pictures.
+
+view invision prototype: https://invis.io/WUD1W108C
+
 
 **_contact Brendan Hanna at gepetto503@gmail.com_**
